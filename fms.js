@@ -1,5 +1,3 @@
-// 040516
-
 var is_fast_check = true,	
 	sound_obj, audio_obj = new Audio("http://wav-library.net/effect/alarm/mayak.mp3"),
 	is_checked, timer_id, $els_arr, serialize_data,
